@@ -30,13 +30,13 @@ MongoDB: Stores data related to users, products, orders.
 
 ## Home Page
 
-![]https://github.com/Khushi-patel1221/Shopify/blob/main/images/home.jpeg
+![](https://github.com/Khushi-patel1221/Shopify/blob/main/images/home.jpeg)
 ## Registration Page
-![]https://github.com/Khushi-patel1221/Shopify/blob/main/images/registration.jpeg
+![](https://github.com/Khushi-patel1221/Shopify/blob/main/images/registration.jpeg)
 ## Login Page
-![]https://github.com/Khushi-patel1221/Shopify/blob/main/images/login.jpeg
+![](https://github.com/Khushi-patel1221/Shopify/blob/main/images/login.jpeg)
 ## Shopping Cart Page
-![]https://github.com/Khushi-patel1221/Shopify/blob/main/images/cart.jpeg
+![](https://github.com/Khushi-patel1221/Shopify/blob/main/images/cart.jpeg)
 
 
 ## Installation🚀
