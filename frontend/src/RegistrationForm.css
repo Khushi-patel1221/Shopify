@@ -1,0 +1,36 @@
+/* RegistrationForm.css */
+
+.container-background {
+    background-color: #f0f0f0; /* Background color for the container */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-container {
+    background-color: #fff; /* Background color for the form */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    color: #333; /* Text color */
+  }
+  
+  /* Ensure input fields and button match header styles */
+  .custom-textfield {
+    background-color: #f7f7f7 !important; /* Input field background color */
+    border-radius: 4px;
+    padding: 10px;
+  }
+  
+  .custom-button {
+    background-color: #333 !important; /* Button background color */
+    color: #fff !important; /* Button text color */
+  }
+  
+  .custom-button:hover {
+    background-color: #555 !important; /* Button hover color */
+  }
+  

@@ -1,0 +1,39 @@
+/* Login.css */
+
+.container-background {
+  background-color: #f0f0f0; /* Background color for the container */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  margin-top: 30px;
+}
+
+.form-container {
+  background-color: #fff; /* Background color for the form */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  color: #a98cb0; /* Text color for the "register" message */
+}
+
+h2 a {
+  color: #007bff; /* Link color */
+}
+
+/* Update for login button */
+button {
+  background-color: #a98cb0; /* Use the header color for the button background */
+  color: white; /* Text color for the button */
+  border: none; /* Remove border */
+  padding: 10px 20px; /* Padding for the button */
+  border-radius: 5px; /* Rounded corners for the button */
+  cursor: pointer; /* Cursor changes to pointer on hover */
+  font-size: 16px; /* Font size for the button text */
+}
+
+button:hover {
+  background-color: #8c6a99; /* Slightly darker shade for hover effect */
+}
